@@ -1,3 +1,11 @@
+covid.workshop/
+data/
+workshop1/
+workshop2/
+workshop5_컬럼/
+workshop6/
+workshop7/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
